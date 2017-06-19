@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="recipeNameLabel">Recipe Name</string>
+    <string name="survingLabel">Ingredients</string>
+    <string name="json_request">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="recipe1">http://www.recipeboy.com/wp-content/uploads/2016/09/No-Bake-Nutella-Pie.jpg</string>
+    <string name="recipe2">http://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/10/25/1/CC_Alton-Brown-Cocoa-Brownies_s4x3.jpg.rend.hgtvcom.616.462.jpeg</string>
+    <string name="recipe3">https://dessertswithbenefits.com/wp-content/uploads/2014/01/33.jpg</string>
+    <string name="recipe4">http://assets.kraftfoods.com/recipe_images/opendeploy/52544_640x428.jpg</string>
+    <string name="toolbarTitle">Recipe Details</string>
+    <string name="firstRecipe">Nutella Pie</string>
+    <string name="secondRecipe">Brownies</string>
+    <string name="thirdRecipe">Yellow Cake</string>
+    <string name="fourthRecipe">Cheesecake</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingrediantLabel">Ingrediant List:</string>
+    <string name="shortDesLable">Short Description</string>
+    <string name="fullDesLabel">Full Description</string>
+    <string name="recipeLabel">Baking Time</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="reci1">Nutella Pie: 2 CUP Graham Cracker crumbs,6 TBLSP unsalted butter, melted,0.5 CUP granulated sugar,1.5 TSP salt,5 TBLSP vanilla,1 KNutella or other chocolate-hazelnut spread,500 G Mascapone Cheese(room temperature),1 CUP heavy cream(cold),4 OZ cream cheese(softened)</string>
+    <string name="reci2">Brownies: 350 G Bittersweet chocolate (60-70% cacao), 226 G unsalted butter, 300 G granulated suger,100 G light brown sugar, 5 UNIT large eggs,1 TBLSP vanilla extract, 140 G all purpose flour, 40 G cocoa powder, 1.5 G swmisweet chocolate chips</string>
+    <string name="reci3">Yellow Cake: 400 G sifted cake flour, 700 G franulated sugar, 4 TSP salt, 2 TBLSP vanilla extract, 8 UNIT egg yolks, 323 G whole milk, 961 G unsalted butter, 6 UNIT egg whites, 283 G melted and cooled vittersweet</string>
+    <string-array name="reci">
+        <item>Nutella Pie:\n2 CUP Graham Cracker crumbs,6 TBLSP unsalted butter, melted,0.5 CUP granulated sugar,1.5 TSP salt,5 TBLSP vanilla,1 KNutella or other chocolate-hazelnut spread,500 G Mascapone Cheese(room temperature),1 CUP heavy cream(cold),4 OZ cream cheese(softened)</item>
+        <item>Brownies:\n350 G Bittersweet chocolate (60-70% cacao), 226 G unsalted butter, 300 G granulated suger,100 G light brown sugar, 5 UNIT large eggs,1 TBLSP vanilla extract, 140 G all purpose flour, 40 G cocoa powder, 1.5 G swmisweet chocolate chips</item>
+        <item>Yellow Cake:\n400 G sifted cake flour, 700 G franulated sugar, 4 TSP salt, 2 TBLSP vanilla extract, 8 UNIT egg yolks, 323 G whole milk, 961 G unsalted butter, 6 UNIT egg whites, 283 G melted and cooled vittersweet</item>
+        <item>Cheesecake:\n2 CUP Graham Cracker crumbs, 6 TBLSP unsalted butter, 250 G granulated sugar, 1 TSP salt, 4 TSP vanilla,680 G cream cheese, 3 UNIT large whole egges, 2 UNIT large egg yolks, 250 G heacy cream</item>
+    </string-array>
+</resources>

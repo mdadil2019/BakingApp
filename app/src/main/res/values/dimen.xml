@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutPadding">25dp</dimen>
+    <dimen name="recyclerViewMargin">10dp</dimen>
+    <dimen name="recyclerViewPadding">10dp</dimen>
+    <dimen name="textViewLayoutMargin">10dp</dimen>
+    <dimen name="linearLayoutBottomMargin">15dp</dimen>
+</resources>
